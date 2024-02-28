@@ -14,7 +14,7 @@ Contact me on Discord: `joltz1234`
 
 ***
 
-- 🔭 I’m currently working on a [**Multi Function Discord Bot with over 1000+ Features!**]
+- 🔭 I’m currently working on a **Multi Function Discord Bot with over 1000+ Features!**
   
 
 - 🌱 I’m currently coding in **Javascript**.  
@@ -34,7 +34,3 @@ Contact me on Discord: `joltz1234`
 ## Support me And Mystic Titans
 
 > You can always Support me by inviting one of my **own Discord Bots**
-
-# Credits
-
-> If consider using this Bot, make sure to credit me!
