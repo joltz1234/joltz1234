@@ -10,7 +10,7 @@ Contact me on Discord: `joltz1234`
 
 ### <div align="center">[Click here to view my Portfolio](https://joltz1234.github.io)</div>  
 
-![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
+![](https://discord.c99.nl/widget/theme-3/837162825373188106.png)  
 
 ***
 
