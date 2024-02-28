@@ -27,7 +27,7 @@ Contact me on Discord: `joltz1234`
 ***
 
 ## [Discord Server 😎]((https://dsc.gg/mystic-titans))
-<a href="https://dsc.gg/mystic-titans"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
+<a href="https://dsc.gg/mystic-titans"><img src="https://discord.com/api/guilds/1209623599309389854/widget.png?style=banner2"></a>
 
 ***
 
