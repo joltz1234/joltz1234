@@ -30,3 +30,9 @@ Contact me on Discord: `joltz1234`
 <a href="https://dsc.gg/mystic-titans"><img src="https://discord.com/api/guilds/1209623599309389854/widget.png?style=banner2"></a>
 
 ***
+
+***
+
+## My Bots 🤖
+https://discord.c99.nl/widget/theme-1/1208205376831619183.png
+***
