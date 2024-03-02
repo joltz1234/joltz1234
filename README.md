@@ -8,8 +8,6 @@ Contact me on Discord: `joltz1234`
 
 <div align="center">I'm joltz, mainly a Discord Bot Developer! Working since 2023 on Bots 🚀</div>  
 
-![Discord Widget](https://discord.c99.nl/widget/theme-2/837162825373188106.png)  
-
 ---
 
 - 🔭 I’m currently working on a **Multi Function Discord Bot with over 1000+ Features!**
