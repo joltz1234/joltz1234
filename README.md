@@ -24,8 +24,3 @@ Contact me on Discord: `joltz1234`
 
 ## [Discord Server 😎](https://dsc.gg/mystic-titans)
 [![Discord Server Banner](https://discord.com/api/guilds/1209623599309389854/widget.png?style=banner2)](https://dsc.gg/mystic-titans)
-
----
-
-## My Bots 🤖
-![My Bots](https://discord.c99.nl/widget/theme-1/1208205376831619183.png)
